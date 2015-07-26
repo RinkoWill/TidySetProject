@@ -18,6 +18,7 @@ These activities are shown in the "activity" variable, and include: Walking, Wal
 
 All of the other variables in the tidy dataset represent the **MEAN VALUE** of that variable for each subject and each activity.
 
+
 subject
 activity
 RawSignal_Body_Acceleration_Mean()_X_Axis
