@@ -14,16 +14,12 @@ Some of the variables were then transformed using a Fast Fourier Transform (deno
 
 The first variable in the dataset, "subject" refers to the number assigned to the human subjects carrying out the testing. There were 30 subjects total, each one performing each of six different activities.
 
-These activities are shown in the "activity" variable, and include:
-*Walking
-*Walking Upstairs
-*Walking Downstairs
-*Sitting
-*Standing
-*Laying
+These activities are shown in the "activity" variable, and include: Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, and Laying.
 
-All of the other variables in the tidy dataset represent the MEAN value of that variable for each subject and each activity. 
+All of the other variables in the tidy dataset represent the **MEAN VALUE** of that variable for each subject and each activity.
 
+subject
+activity
 RawSignal_Body_Acceleration_Mean()_X_Axis
 RawSignal_Body_Acceleration_Mean()_Y_Axis
 RawSignal_Body_Acceleration_Mean()_Z_Axis

@@ -16,4 +16,4 @@ All files in project:
 *  run_analysis.R -- This is the file containing the R script.
 *  CodeBook.md -- This file contains descriptions of the variables that appear in the final tidy dataset created by the R script.
 * tidyset.txt -- This is a text file of the output from the R script. Note that the R script does not automatically create the text file output.
-*README -- this document
+* README -- this document
